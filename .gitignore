@@ -1,4 +1,4 @@
-venv/
+openai/
 
 *.pyc
 __pycache__/
